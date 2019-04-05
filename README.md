@@ -1,4 +1,4 @@
-<center><img src='images/newsstand.jpg'></center>
+<center><img src='images/Newstand.jpg'></center>
 
 # Capstone Project - News Content
 
@@ -23,4 +23,4 @@ What are the next steps?
 
 ## Presentation
 
-<img src="FakeNews.pdf" alt="News Content Presentation"  width="4200" height="4200">
+![Alt](FakeNews.pdf)
