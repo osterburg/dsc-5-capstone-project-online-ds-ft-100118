@@ -20,5 +20,3 @@ What are the next steps?
 
 + create a dashboard to copy/paste news content to make a prediction
 + add classifiers to distinguish the text better based on its "content" and "context".
-
-{% inline FakeNews.html %}
