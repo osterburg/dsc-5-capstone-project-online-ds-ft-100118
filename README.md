@@ -1,4 +1,4 @@
-[<center><img src='images/newsstand.jpg'></center>](https://github.com/osterburg/dsc-5-capstone-project-online-ds-ft-100118/FakeNews/index.html)
+<center><img src='images/newsstand.jpg'></center>
 
 # Capstone Project - News Content
 
