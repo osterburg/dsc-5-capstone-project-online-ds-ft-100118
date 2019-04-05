@@ -2,7 +2,7 @@
 
 # Capstone Project - News Content
 
-Over the past two decades and especially since the United States presidential election 2016 there is an increase in unreliable news content. The question which got and still gets asked is how can we know which is which. To find an answer I started at opensources which curates a list of online information sources. The websites listed range from credible news to misleading and outright fake.
+Over the past two decades and especially since the United States presidential election 2016 there is an increase in unreliable news content. The question which got and still gets asked is how can we know which is which. To find an answer I started at [opensources](http://www.opensources.co/) which curates a list of online information sources. The websites listed range from credible news to misleading and outright fake.
 
 I split the project into three different notebooks:
 
@@ -20,3 +20,9 @@ What are the next steps?
 
 + create a dashboard to copy/paste news content to make a prediction
 + add classifiers to distinguish the text better based on its "content" and "context".
+
+## Presentation
+
+\begin{center} <br>
+\includegraphics[width=8in]{FakeNews.pdf} <br>
+\end{center}
