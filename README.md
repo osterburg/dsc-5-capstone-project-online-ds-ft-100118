@@ -1,4 +1,4 @@
-<center><img src='images/newsstand.png'></center>
+<center><img src='https://github.com/osterburg/dsc-5-capstone-project-online-ds-ft-100118/images/newsstand.png'></center>
 
 # Capstone Project - News Content
 
