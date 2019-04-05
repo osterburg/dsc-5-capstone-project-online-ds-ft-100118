@@ -23,7 +23,7 @@ What are the next steps?
 
 ## Presentation
 
-<pre><code>
+
 <script type="text/javascript">
 
 function detectBrowser()
@@ -31,8 +31,7 @@ function detectBrowser()
     var slashIndex = window.location.href.lastIndexOf("/");
     var cropped = window.location.href.slice(0,slashIndex+1);
 
-    window.location.replace(cropped + "assets/player/KeynoteDHTMLPlayer.html");
+    window.location.replace(cropped + "FakeNews/assets/player/KeynoteDHTMLPlayer.html");
 }
 
 </script>
-</code></pre>
