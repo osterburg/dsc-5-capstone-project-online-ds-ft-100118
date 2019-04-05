@@ -23,6 +23,4 @@ What are the next steps?
 
 ## Presentation
 
-\begin{center} <br>
-\includegraphics[width=8in]{FakeNews.pdf} <br>
-\end{center}
+<img src="FakeNews.pdf" alt="News Content Presentation"  width="4200" height="4200">
