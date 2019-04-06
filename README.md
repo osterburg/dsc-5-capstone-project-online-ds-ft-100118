@@ -6,9 +6,9 @@ Over the past two decades and especially since the United States presidential el
 
 I split the project into three different notebooks:
 
-+ collecting content [(01_data_collection)](01_data_collection.ipynb)
-+ data exploration [(02_data_exploration)](02_data_exploration.ipynb)
-+ creating a keras model [(03_data_modeling)](03_data_modeling.ipynb)
++ collecting content [(01_data_collectionipynb)](01_data_collection.ipynb)
++ data exploration [(02_data_explorationipynb)](02_data_exploration.ipynb)
++ creating a keras model [(03_data_modelingipynb)](03_data_modeling.ipynb)
 
 I am interested in trying to answer the following questions:
 
@@ -26,6 +26,9 @@ What are the next steps?
 The following blog posts describe the work flow of each notebook and it approach:
 
 Part 1: [collecting news content for this project using different tools](https://stephanosterburg.github.io/text_classification_part_1/)
+
 Part 2: [exploring our data to help us understand better what type of content we have](https://stephanosterburg.github.io/text_classification_part_2/)
+
 Part 3: [building a deep learning model to predict whether a given text is reliable or not](https://stephanosterburg.github.io/text_classification_part_3/)
+
 Part 4: next step(s)
