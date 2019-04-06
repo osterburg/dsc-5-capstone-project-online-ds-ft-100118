@@ -20,3 +20,12 @@ What are the next steps?
 
 + create a dashboard to copy/paste news content to make a prediction
 + add classifiers to distinguish the text better based on its "content" and "context".
+
+## Blog
+
+The following blog posts describe the work flow of each notebook and it approach:
+
+Part 1: [collecting news content for this project using different tools](https://stephanosterburg.github.io/text_classification_part_1/)
+Part 2: [exploring our data to help us understand better what type of content we have](https://stephanosterburg.github.io/text_classification_part_2/)
+Part 3: [building a deep learning model to predict whether a given text is reliable or not](https://stephanosterburg.github.io/text_classification_part_3/)
+Part 4: next step(s)
