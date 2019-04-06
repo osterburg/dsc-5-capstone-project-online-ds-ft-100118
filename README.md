@@ -6,9 +6,9 @@ Over the past two decades and especially since the United States presidential el
 
 I split the project into three different notebooks:
 
-+ collecting content [(01_data_collectionipynb)](01_data_collection.ipynb)
-+ data exploration [(02_data_explorationipynb)](02_data_exploration.ipynb)
-+ creating a keras model [(03_data_modelingipynb)](03_data_modeling.ipynb)
++ collecting content [(01_data_collection.ipynb)](01_data_collection.ipynb)
++ data exploration [(02_data_exploration.ipynb)](02_data_exploration.ipynb)
++ creating a keras model [(03_data_modeling.ipynb)](03_data_modeling.ipynb)
 
 I am interested in trying to answer the following questions:
 
