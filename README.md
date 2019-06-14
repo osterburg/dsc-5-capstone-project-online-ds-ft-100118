@@ -8,7 +8,9 @@ Over the past two decades and especially since the United States presidential el
 
 __UPDATE__: The website for opensources.co doesn't exist anymore.
 
-I split the project into three different notebooks:
+### Modivation
+
+To help me approach the project right, I split the project into three different tasks (notebooks):
 
 + collecting content [(01_data_collection.ipynb)](01_data_collection.ipynb)
 + data exploration [(02_data_exploration.ipynb)](02_data_exploration.ipynb)
