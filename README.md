@@ -1,8 +1,12 @@
+<a href="https://www.python.org/dev/peps/"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - Python Style Guide"></a>
+
 <center><img src='images/newsstand.jpg'></center>
 
 # Capstone Project - News Content
 
 Over the past two decades and especially since the United States presidential election 2016 there is an increase in unreliable news content. The question which got and still gets asked is how can we know which is which. To find an answer I started at [opensources](http://www.opensources.co/) which curates a list of online information sources. The websites listed range from credible news to misleading and outright fake.
+
+__UPDATE__: The website for opensources.co doesn't exist anymore.
 
 I split the project into three different notebooks:
 
@@ -21,7 +25,7 @@ What are the next steps?
 + create a dashboard to copy/paste news content to make a prediction
 + add classifiers to distinguish the text better based on its "content" and "context".
 
-## Blog
+## Blog Post(s)
 
 The following blog posts describe the work flow of each notebook and it approach:
 
@@ -32,3 +36,7 @@ Part 2: [exploring our data to help us understand better what type of content we
 Part 3: [building a deep learning model to predict whether a given text is reliable or not](https://data-ocean.github.io/text_classification_part_3/)
 
 Part 4: next step(s)
+
+---
+
+License MIT © [Stephan Osterburg](https://stephanosterburg.github.io)
