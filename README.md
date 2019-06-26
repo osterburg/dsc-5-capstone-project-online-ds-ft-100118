@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://www.python.org/dev/peps/"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - Python Style Guide"></a>
+    <a href="http://opensources.co"><img src="https://img.shields.io/badge/Data-OpenSources-blue.svg" alt="OpenSources Data"></a>
 </p>
 
 <center><img src='images/newsstand.jpg'></center>
